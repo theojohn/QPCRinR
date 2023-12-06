@@ -91,7 +91,7 @@ Click “UBI3” box to choose this gene as reference. Then the left panel is ex
  PPO0_S2_24h       2.197 1.32 27   1.663  0.1080
  TD20_S2_24h       3.354 1.32 27   2.538  0.0172
 
-Degrees-of-freedom method: kenward-roger 
+Degrees-of-freedom method: kenward-roger
 
 These estimates correspond to the log2 of fold change of a target gene in the specified conditions described by the symbols between the underscore characters (“_”), compared to the control condition and normalized by the expression of the reference gene.
 
