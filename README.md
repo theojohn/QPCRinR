@@ -1,6 +1,6 @@
 **QPCRinR: A powerful and interactive web application for the analysis of RT-qPCR data with linear mixed models**  
 
-*Ioannis Iliopoulos and Ioannis Theologidis*  
+*Ioannis Theologidis*  
 Step-by-step User’s Guide  
 
 **Chapter 1: Introduction**  
