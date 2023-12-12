@@ -3,6 +3,8 @@
 *Ioannis Theologidis*  
 Step-by-step User’s Guide  
 
+![GraphicalAbstract](https://github.com/theojohn/QPCRinR/assets/30171724/e9e53e69-0fd1-4fea-8738-99f18e7e63c4)
+
 **Chapter 1: Introduction**  
 QPCRinR is a web tool for the analysis of RT-qPCR data with Linear Mixed Models (LLMs). It is accessible at https://itheo.shinyapps.io/QPCRinR/. The interface contains multiple tabs at the top of the webpage that are used by means of a linear progression from data submission to result collection.  
 
