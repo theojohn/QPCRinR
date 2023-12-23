@@ -59,6 +59,7 @@ In the main panel, click variable “Ct” from the Model Components bucket and 
 Ct ~ gene * treatment * times + (1|samples)  
 
 In this model, the part after the “+” sign represents a random sample-specific intercept. To run this model, click [Run Model!].
+
 Shortly, the output of the analysis will appear under the clicked button. The first table contains the model evaluation metrics that inform the user about the performance of the model. Underneath, two grey panels will be displayed; 1) the summary of the model and 2) the factor combination estimates with their confidence intervals (CI).
 At this stage, the user can test and compare different model expressions and select the best before proceeding to the next stage. Below, other model formulas that can be inputted manually are provided:
 
